@@ -20,4 +20,4 @@ strings can be manipulated via indexing, split, strip and replace techniques in 
 remember len and range allow us to index strings in string manipulation
 if and else provide conditions for a statement (strings)
 '''
-Tendani Maumela 
+Tendani Maumela.
